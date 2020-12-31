@@ -1,0 +1,20 @@
+{
+  "name": "react-native-login-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/569890172/react-native-login-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/569890172/react-native-login-manager/issues"
+  },
+  "homepage": "https://github.com/569890172/react-native-login-manager#readme"
+}
